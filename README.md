@@ -1,2 +1,2 @@
-# practicagit
-curso de git y github en Platzi
+# Practica Git
+Curso de git y github en Platzi
