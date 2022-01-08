@@ -1,2 +1,2 @@
 # Practica Git
-Curso de git y github en Platzi
+Curso de git y github en Platzi en 2022
