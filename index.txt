@@ -1,3 +1,5 @@
+Título: Este es el nuevo titulo del texto.
+
 Hola, mi nombre es Bryan Vladimir Hernández Guevara y me gusta que me digan Bryan,
 nací el 4 de octubre de 1998 y tengo 23 años.
 
